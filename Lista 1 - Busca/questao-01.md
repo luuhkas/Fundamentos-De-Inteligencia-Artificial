@@ -2,7 +2,7 @@
 
 Simulei a busca em largura e a busca em profundidade na árvore da lista para achar os nós 10 e 20.
 
-![Questão 1](imagens/questao-01.png)
+![Questão 1](questao-01.png)
 
 ## Resumo de como cheguei na solução
 
