@@ -1,12 +1,14 @@
 # Fundamentos De Inteligência Artificial
 
-Repositório acadêmico de **Fundamentos De Inteligência Artificial**, do Bacharelado em Ciência da Computação da UTFPR — Campus Santa Helena, docente Thiago França Naves.
+Repositório acadêmico da disciplina, do Bacharelado em Ciência da Computação da UTFPR - Campus Santa Helena.
 
-## Conteúdo
+Docente: Thiago França Naves
 
-| Pasta | Assunto | Estado |
-|:--|:--|:--|
-| [`Lista 1 - Busca/`](Lista%201%20-%20Busca/) | Busca cega: largura, profundidade, profundidade limitada e aprofundamento iterativo | Em andamento |
+Lucas Silva Maués - RA 2476878
+
+## Listas
+
+- [Lista 1 - Busca](Lista%201%20-%20Busca/) - largura, profundidade, profundidade limitada e aprofundamento iterativo
 
 ## Referência
 
