@@ -9,6 +9,7 @@ Lucas Silva Maués - RA 2476878
 ## Listas
 
 - [Lista 1 - Busca](Lista%201%20-%20Busca/) - largura, profundidade, profundidade limitada e aprofundamento iterativo
+- [Lista 2 - Busca Informada](Lista%202%20-%20Busca%20Informada/) - heurísticas, busca gulosa e A*
 
 ## Referência
 
