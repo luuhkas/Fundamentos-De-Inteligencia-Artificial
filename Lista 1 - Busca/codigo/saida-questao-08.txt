@@ -1,0 +1,16 @@
+BUSCA EM LARGURA
+  ordem de visita: School -> Bank -> Club -> Lake -> Home -> Museum
+  nos visitados: 6
+  caminho: School -> Bank -> Museum
+  custo: 2.7 km
+  tempo de uma execucao: 2.07 microssegundos
+  tempo das 100 mil: 0.2070 s
+
+BUSCA EM PROFUNDIDADE
+  ordem de visita: School -> Bank -> Home -> Museum
+  nos visitados: 4
+  caminho: School -> Bank -> Museum
+  custo: 2.7 km
+  tempo de uma execucao: 1.71 microssegundos
+  tempo das 100 mil: 0.1715 s
+

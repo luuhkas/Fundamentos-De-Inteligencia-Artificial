@@ -1,0 +1,57 @@
+PROFUNDIDADE LIMITADA
+  limite 2
+    nos visitados: 9
+    ordem: Arad -> Sibiu -> Fagaras -> Oradea -> Rimnicu Vilcea -> Timisoara -> Lugoj -> Zerind -> Oradea
+    resultado: nao achou
+    tempo: 1.98 microssegundos
+
+  limite 4
+    nos visitados: 4
+    ordem: Arad -> Sibiu -> Fagaras -> Bucharest
+    caminho: Arad -> Sibiu -> Fagaras -> Bucharest
+    profundidade: 3
+    custo: 450 km
+    tempo: 0.87 microssegundos
+
+  limite 7
+    nos visitados: 4
+    ordem: Arad -> Sibiu -> Fagaras -> Bucharest
+    caminho: Arad -> Sibiu -> Fagaras -> Bucharest
+    profundidade: 3
+    custo: 450 km
+    tempo: 0.87 microssegundos
+
+APROFUNDAMENTO ITERATIVO
+  limite maximo 2
+    limite 0: 1 nos visitados, nao achou
+    limite 1: 4 nos visitados, nao achou
+    limite 2: 9 nos visitados, nao achou
+    nos visitados: 14
+    ordem: Arad -> Arad -> Sibiu -> Timisoara -> Zerind -> Arad -> Sibiu -> Fagaras -> Oradea -> Rimnicu Vilcea -> Timisoara -> Lugoj -> Zerind -> Oradea
+    resultado: nao achou
+    tempo: 3.41 microssegundos
+
+  limite maximo 4
+    limite 0: 1 nos visitados, nao achou
+    limite 1: 4 nos visitados, nao achou
+    limite 2: 9 nos visitados, nao achou
+    limite 3: 4 nos visitados, achou
+    nos visitados: 18
+    ordem: Arad -> Arad -> Sibiu -> Timisoara -> Zerind -> Arad -> Sibiu -> Fagaras -> Oradea -> Rimnicu Vilcea -> Timisoara -> Lugoj -> Zerind -> Oradea -> Arad -> Sibiu -> Fagaras -> Bucharest
+    caminho: Arad -> Sibiu -> Fagaras -> Bucharest
+    profundidade: 3
+    custo: 450 km
+    tempo: 4.45 microssegundos
+
+  limite maximo 7
+    limite 0: 1 nos visitados, nao achou
+    limite 1: 4 nos visitados, nao achou
+    limite 2: 9 nos visitados, nao achou
+    limite 3: 4 nos visitados, achou
+    nos visitados: 18
+    ordem: Arad -> Arad -> Sibiu -> Timisoara -> Zerind -> Arad -> Sibiu -> Fagaras -> Oradea -> Rimnicu Vilcea -> Timisoara -> Lugoj -> Zerind -> Oradea -> Arad -> Sibiu -> Fagaras -> Bucharest
+    caminho: Arad -> Sibiu -> Fagaras -> Bucharest
+    profundidade: 3
+    custo: 450 km
+    tempo: 4.43 microssegundos
+
