@@ -1,0 +1,3 @@
+estados alcancaveis: 140
+estado inicial: h = 9  custo real = 14
+estados em que h passa do custo real: 0
