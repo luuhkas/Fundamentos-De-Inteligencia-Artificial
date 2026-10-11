@@ -1,0 +1,38 @@
+POPULACAO INICIAL
+   001100 x = 12 f(x) = 144
+   010101 x = 21 f(x) = 441
+   111000 x = 56 f(x) = 3136
+   000111 x = 7 f(x) = 49
+   101011 x = 43 f(x) = 1849
+   101000 x = 40 f(x) = 1600
+   soma = 7219  media = 1203.2  melhor = 3136
+
+faixa de 001100 : [0, 144)  probabilidade 2.0%
+faixa de 010101 : [144, 585)  probabilidade 6.1%
+faixa de 111000 : [585, 3721)  probabilidade 43.4%
+faixa de 000111 : [3721, 3770)  probabilidade 0.7%
+faixa de 101011 : [3770, 5619)  probabilidade 25.6%
+faixa de 101000 : [5619, 7219)  probabilidade 22.2%
+
+roleta sorteou 2337.7 -> 111000
+roleta sorteou 1089.0 -> 111000
+roleta sorteou 4699.1 -> 101011
+roleta sorteou 522.9 -> 010101
+roleta sorteou 3868.5 -> 101011
+roleta sorteou 2639.9 -> 111000
+
+pais 111000 111000  r = 0.06  corte depois do bit 5 -> 111000 111000
+pais 101011 010101  r = 0.21  corte depois do bit 1 -> 110101 001011
+pais 101011 111000  r = 0.43  corte depois do bit 1 -> 111000 101011
+
+mutacao no bit 4 de 111000
+
+NOVA POPULACAO
+   111000 x = 56 f(x) = 3136
+   111100 x = 60 f(x) = 3600
+   110101 x = 53 f(x) = 2809
+   001011 x = 11 f(x) = 121
+   111000 x = 56 f(x) = 3136
+   101011 x = 43 f(x) = 1849
+   soma = 14651  media = 2441.8  melhor = 3600
+

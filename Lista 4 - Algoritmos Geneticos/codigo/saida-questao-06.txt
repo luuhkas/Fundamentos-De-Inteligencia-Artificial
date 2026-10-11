@@ -1,0 +1,41 @@
+GERACAO 1
+  pais: 1-3-2-5-4-1 custo 27  | 1-4-3-2-5-1 custo 28
+  cruzamento mantendo as posicoes 2 a 3
+  filhos: 1-3-2-4-5-1 custo 25  | 1-4-3-2-5-1 custo 28
+  mutacao: troca das posicoes 3 e 4 no filho 1 e 5 e 1 no filho 2
+  filhos mutados: 1-3-4-2-5-1 custo 33  | 5-4-3-2-1-5 custo 22
+  sobrevivem: 5-4-3-2-1-5 custo 22  | 1-3-2-5-4-1 custo 27
+
+GERACAO 2
+  pais: 5-4-3-2-1-5 custo 22  | 1-3-2-5-4-1 custo 27
+  cruzamento mantendo as posicoes 1 a 4
+  filhos: 5-4-3-2-1-5 custo 22  | 1-3-2-5-4-1 custo 27
+  mutacao: troca das posicoes 3 e 2 no filho 1 e 2 e 4 no filho 2
+  filhos mutados: 5-3-4-2-1-5 custo 21  | 1-5-2-3-4-1 custo 28
+  sobrevivem: 5-3-4-2-1-5 custo 21  | 5-4-3-2-1-5 custo 22
+
+GERACAO 3
+  pais: 5-3-4-2-1-5 custo 21  | 5-4-3-2-1-5 custo 22
+  cruzamento mantendo as posicoes 4 a 5
+  filhos: 5-4-3-2-1-5 custo 22  | 5-3-4-2-1-5 custo 21
+  mutacao: troca das posicoes 2 e 5 no filho 1 e 2 e 4 no filho 2
+  filhos mutados: 5-1-3-2-4-5 custo 25  | 5-2-4-3-1-5 custo 33
+  sobrevivem: 5-3-4-2-1-5 custo 21  | 5-4-3-2-1-5 custo 22
+
+GERACAO 4
+  pais: 5-3-4-2-1-5 custo 21  | 5-4-3-2-1-5 custo 22
+  cruzamento mantendo as posicoes 1 a 1
+  filhos: 5-4-3-2-1-5 custo 22  | 5-3-4-2-1-5 custo 21
+  mutacao: troca das posicoes 2 e 1 no filho 1 e 3 e 1 no filho 2
+  filhos mutados: 4-5-3-2-1-4 custo 15  | 4-3-5-2-1-4 custo 23
+  sobrevivem: 4-5-3-2-1-4 custo 15  | 5-3-4-2-1-5 custo 21
+
+GERACAO 5
+  pais: 4-5-3-2-1-4 custo 15  | 5-3-4-2-1-5 custo 21
+  cruzamento mantendo as posicoes 3 a 4
+  filhos: 5-4-3-2-1-5 custo 22  | 5-3-4-2-1-5 custo 21
+  mutacao: troca das posicoes 5 e 4 no filho 1 e 4 e 5 no filho 2
+  filhos mutados: 5-4-3-1-2-5 custo 29  | 5-3-4-1-2-5 custo 23
+  sobrevivem: 4-5-3-2-1-4 custo 15  | 5-3-4-2-1-5 custo 21
+
+melhor rota testando todas: 1-2-3-5-4-1 custo 15
