@@ -1,0 +1,2 @@
+partidas possiveis: 255168
+limite 9! = 362880
