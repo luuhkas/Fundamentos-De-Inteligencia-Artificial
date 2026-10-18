@@ -1,0 +1,7 @@
+heuristica: manhattan
+algoritmo      custo   $  lucro expandidos  gerados  tempo(ms)    memoria prof.tempo   prof.mem
+Largura            -   -      -         27       30      0.006     2.6 KB    0.003 s      30 KB   SEM CAMINHO
+Profundidade       -   -      -         29       32      0.008     2.8 KB    0.003 s      32 KB   SEM CAMINHO
+Gulosa             -   -      -         21       25      0.009     1.6 KB    0.003 s      25 KB   SEM CAMINHO
+A*                 -   -      -         25       29      0.012     1.7 KB    0.003 s      29 KB   SEM CAMINHO
+RMA*               -   -      -          0        0      0.002     1.0 KB    0.000 s       0 KB   SEM CAMINHO

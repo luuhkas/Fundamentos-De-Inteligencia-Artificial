@@ -1,0 +1,7 @@
+heuristica: manhattan
+algoritmo      custo   $  lucro expandidos  gerados  tempo(ms)    memoria prof.tempo   prof.mem
+Largura          205   6   -115        279      323      0.063    16.8 KB    0.032 s     323 KB
+Profundidade     175   2   -145         68      101      0.022     7.4 KB    0.010 s     101 KB
+Gulosa           266   7   -161        295      365      0.156    14.4 KB    0.036 s     365 KB
+A*               107   4    -47        190      234      0.112    11.5 KB    0.023 s     234 KB
+RMA*              69   5      6       1955     2265      5.247   334.9 KB    0.227 s    2265 KB
