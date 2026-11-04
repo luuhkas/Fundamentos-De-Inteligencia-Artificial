@@ -17,6 +17,7 @@ Lucas Silva Maués - RA 2476878
 ## Trabalhos
 
 - [Trabalho 1 - Busca](Trabalho%201%20-%20Busca/) - agente em grafo com terrenos e recompensas: largura, profundidade, gulosa, A* e RMA*
+- [Trabalho 2 - Algoritmo Genético](Trabalho%202%20-%20Algoritmo%20Genetico/) - grade horária do 1º ao 4º período de CC com AG: 3 seleções x 3 cruzamentos, busca local (memético) e solver exato
 
 ## Referência
 

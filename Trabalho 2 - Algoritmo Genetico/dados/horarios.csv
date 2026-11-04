@@ -1,0 +1,13 @@
+codigo,turno,inicio,termino
+M1,manha,07:30,08:20
+M2,manha,08:20,09:10
+M3,manha,09:10,10:00
+M4,manha,10:20,11:10
+M5,manha,11:10,12:00
+M6,manha,12:00,12:50
+T1,tarde,13:00,13:50
+T2,tarde,13:50,14:40
+T3,tarde,14:40,15:30
+T4,tarde,15:50,16:40
+T5,tarde,16:40,17:30
+T6,tarde,17:30,18:20
