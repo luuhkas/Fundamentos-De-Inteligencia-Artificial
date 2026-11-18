@@ -14,6 +14,7 @@ Lucas Silva Maués - RA 2476878
 - [Lista 4 - Algoritmos Genéticos](Lista%204%20-%20Algoritmos%20Geneticos/) - população, aptidão, seleção, cruzamento e mutação
 - [Lista 5 - Representação do Conhecimento e Raciocínio](Lista%205%20-%20Representacao%20do%20Conhecimento/) - paradigmas de representação, dedução, indução, abdução e analogia
 - [Lista 6 - Lógica Proposicional](Lista%206%20-%20Logica%20Proposicional/) - formalização, tabela-verdade e prova por regras de inferência
+- [Lista 7 - Lógica Proposicional e de Primeira Ordem](Lista%207%20-%20Logica%20Proposicional%20e%20Primeira%20Ordem/) - refutação, FNC, resolução e formalização com predicados e quantificadores
 
 ## Trabalhos
 
